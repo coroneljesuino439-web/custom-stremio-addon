@@ -1,0 +1,52 @@
+{
+  "id": "custom-addon",
+  "version": "1.0.0",
+  "name": "Custom Addon",
+  "description": "Addon personalizado para Stremio, para filmes e séries, baseado no Reflux.",
+  "resources": [
+    "catalog",
+    "stream",
+    "meta"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "custom-movies",
+      "name": "Filmes Custom",
+      "extra": [
+        {
+          "name": "genre",
+          "isRequired": false
+        },
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "custom-series",
+      "name": "Séries Custom",
+      "extra": [
+        {
+          "name": "genre",
+          "isRequired": false
+        },
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    }
+  ],
+  "idPrefixes": [
+    "custom:"
+  ],
+  "contactEmail": "seuemail@exemplo.com",
+  "icon": "https://link-para-icone.com/icone.png"
+}
