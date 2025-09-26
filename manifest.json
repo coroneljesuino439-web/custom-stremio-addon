@@ -18,30 +18,20 @@
       "id": "custom-movies",
       "name": "Filmes Custom",
       "extra": [
-        {
-          "name": "genre",
-          "isRequired": false
-        },
-        {
-          "name": "search",
-          "isRequired": false
-        }
-      ]
+        {"name": "genre", "isRequired": false},
+        {"name": "search", "isRequired": false}
+      ],
+      "url": "https://raw.githubusercontent.com/seuusuario/custom-stremio-addon/main/movies.json"
     },
     {
       "type": "series",
       "id": "custom-series",
       "name": "Séries Custom",
       "extra": [
-        {
-          "name": "genre",
-          "isRequired": false
-        },
-        {
-          "name": "search",
-          "isRequired": false
-        }
-      ]
+        {"name": "genre", "isRequired": false},
+        {"name": "search", "isRequired": false}
+      ],
+      "url": "https://raw.githubusercontent.com/seuusuario/custom-stremio-addon/main/series.json"
     }
   ],
   "idPrefixes": [
