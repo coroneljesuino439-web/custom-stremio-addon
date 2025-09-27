@@ -2,7 +2,7 @@
   "id": "custom-addon",
   "version": "1.0.0",
   "name": "Custom Addon",
-  "description": "Addon personalizado para Stremio, para filmes e séries.",
+  "description": "Addon personalizado para Stremio, com filmes e séries.",
   "resources": ["catalog","stream","meta"],
   "types": ["movie","series"],
   "catalogs": [
