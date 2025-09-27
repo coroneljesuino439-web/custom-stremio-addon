@@ -15,23 +15,6 @@
             "streams": [
               {
                 "name": "HD",
-                "url": "[
-  {
-    "id": "custom:serie-teste",
-    "type": "series",
-    "name": "Série de Teste",
-    "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Stremio_Logo.png",
-    "background": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Stremio_Logo.png",
-    "seasons": [
-      {
-        "season": 1,
-        "episodes": [
-          {
-            "episode": 1,
-            "name": "Episódio 1",
-            "streams": [
-              {
-                "name": "HD",
                 "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
                 "quality": "1080p"
               }
@@ -58,68 +41,6 @@
               {
                 "name": "HD",
                 "url": "https://be2719.rcr22.ams01.i8yz83pn.com/hls2/02/04298/jao86rrzy34j_h/index-v1-a1.m3u8?t=GdyhS6rlCVnca67e_P-OxTnxDqLzFDDuf8gaZYzInEI&s=1758930906&e=10800&f=48841255&srv=31&asn=266095&sp=4000&p=",
-                "quality": "1080p"
-              }
-            ]
-          },
-          {
-            "episode": 2,
-            "name": "The Series Has Landed",
-            "streams": [
-              {
-                "name": "HD",
-                "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
-                "quality": "1080p"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "season": 2,
-        "episodes": [
-          {
-            "episode": 1,
-            "name": "I Second That Emotion",
-            "streams": [
-              {
-                "name": "HD",
-                "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
-                "quality": "1080p"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  }
-]
-",
-                "quality": "1080p"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "custom:futurama",
-    "type": "series",
-    "name": "Futurama",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/3/3e/FuturamaCharacterCollage.png",
-    "background": "https://upload.wikimedia.org/wikipedia/en/3/3e/FuturamaCharacterCollage.png",
-    "seasons": [
-      {
-        "season": 1,
-        "episodes": [
-          {
-            "episode": 1,
-            "name": "Space Pilot 3000",
-            "streams": [
-              {
-                "name": "HD",
-                "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
                 "quality": "1080p"
               }
             ]
