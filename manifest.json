@@ -11,14 +11,14 @@
       "id": "custom-movies",
       "name": "Filmes Custom",
       "extra":[{"name":"genre","isRequired":false},{"name":"search","isRequired":false}],
-      "url": "https://raw.githubusercontent.com/seuusuario/custom-stremio-addon/main/movies.json"
+      "url": "https://raw.githubusercontent.com/coroneljesuino439-web/custom-stremio-addon/main/movies.json"
     },
     {
       "type": "series",
       "id": "custom-series",
       "name": "Séries Custom",
       "extra":[{"name":"genre","isRequired":false},{"name":"search","isRequired":false}],
-      "url": "https://raw.githubusercontent.com/seuusuario/custom-stremio-addon/main/series.json"
+      "url": "https://raw.githubusercontent.com/coroneljesuino439-web/custom-stremio-addon/main/series.json"
     }
   ],
   "idPrefixes": ["custom:"],
